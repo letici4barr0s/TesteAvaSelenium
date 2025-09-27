@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# mac / windows
+.DS_Store
+Thumbs.db
+
+# ambientes e secrets
+.env
+
+# não versionar o chromedriver se estiver na pasta do projeto
+chromedriver*
+C:/chromedriver/
