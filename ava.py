@@ -8,8 +8,8 @@ import os
 import time
 
 # === CONFIGURAÇÕES ===
-usuario = "10888661312"
-senha = "leite29122004"
+usuario = "AQUI VAI O SEU LOGIN"
+senha = "AQUI VAI A SUA SENHA"
 url_login = "https://ead.unieuro.edu.br/login/index.php"
 nome_disciplina = "24 | GPSINN | PROJETO INTEGRADOR DE SISTEMAS COMPUTACIONAIS"
 nome_arquivo = "globo.pdf"
